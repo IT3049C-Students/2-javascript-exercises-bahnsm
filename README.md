@@ -1,6 +1,6 @@
 JS Exercise
 ===================================
-[![GitHub Classroom Workflow](https://s///github.com/IT3049C-Students/2-javascript-exercises-bahnsm/actions/workflows/classroom.yml/badge.svg)](https://s///github.com/IT3049C-Students/2-javascript-exercises-bahnsm/actions/workflows/classroom.yml)
+[![GitHub Classroom Workflow](https://github.com/IT3049C-Students/2-javascript-exercises-bahnsm/actions/workflows/classroom.yml/badge.svg)](https://s///github.com/IT3049C-Students/2-javascript-exercises-bahnsm/actions/workflows/classroom.yml)
 
 Instructions to this assignment can be found [here](https://it3049c.github.io/Material/Assignments/2.JavaScript_Exercises/).
 
