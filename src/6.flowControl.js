@@ -7,7 +7,26 @@
  *    if no number was provided or if the value provided wasn't a number (hint: typeof), return false
  */
 function fizzBuzz(num) {
-  
+  let result;
+
+  if (typeof num === 'number') {
+    if (num % 3 == 0 && num % 5 == 0) {
+      result = "fizzbuzz";
+    }
+    else if (num % 3 == 0) {
+      result = "fizz";
+    }
+    else if (num % 5 == 0) {
+      result = "buzz";
+    }
+    else {
+      result = num;
+    }
+  }
+  else {
+    result = false;
+  }
+  return result;
 }
 
 module.exports = {
