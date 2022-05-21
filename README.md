@@ -2,7 +2,7 @@ JS Exercise
 ===================================
 [![GitHub Classroom Workflow](https://github.com/IT3049C-Students/2-javascript-exercises-bahnsm/actions/workflows/classroom.yml/badge.svg)](https://s///github.com/IT3049C-Students/2-javascript-exercises-bahnsm/actions/workflows/classroom.yml)
 
-Instructions to this assignment can be found [here](https://it3049c.github.io/Material/Assignments/2.JavaScript_Exercises/).
+Instructions to this assignment can be found [here](https://it3049c.github.io/coursework/assignments/js-exercises/).
 
 ## Checklist:
 - [x] update the assignment checks above to the correct link. - Done Automatically
